@@ -1,0 +1,19 @@
+{
+  "name": "prismaexpressapi",
+  "version": "1.0.0",
+  "description": "2022-05-08 Practica en LaunchX en la Misión de BackEnd con NodeJS impartida por el mission commander Carlo Gilmar para conectar Prisma con Postgres.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisAngelFnz/PrismaExpressAPI.git"
+  },
+  "author": "Luís Ángel Fernández Vásquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuisAngelFnz/PrismaExpressAPI/issues"
+  },
+  "homepage": "https://github.com/LuisAngelFnz/PrismaExpressAPI#readme"
+}
