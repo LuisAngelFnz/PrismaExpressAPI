@@ -4,7 +4,8 @@
   "description": "2022-05-08 Practica en LaunchX en la Misión de BackEnd con NodeJS impartida por el mission commander Carlo Gilmar para conectar Prisma con Postgres.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "node ./lib/server.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/LuisAngelFnz/PrismaExpressAPI/issues"
   },
-  "homepage": "https://github.com/LuisAngelFnz/PrismaExpressAPI#readme"
+  "homepage": "https://github.com/LuisAngelFnz/PrismaExpressAPI#readme",
+  "devDependencies": {
+    "express": "^4.18.1",
+    "prisma": "^3.13.0"
+  }
 }
